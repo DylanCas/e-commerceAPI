@@ -1,4 +1,5 @@
 _instruction_
+.vscode
 
 node_modules
 .env
