@@ -15,6 +15,7 @@ Build from starter code the server and database framework and the routes to crea
 * [Test Command](#testCommand)
 * [Contribution](#constribution)
 * [Questions](#question)
+* [Walkthrough](#walkthrough)
 
 ## Installation Command: 
   
@@ -39,3 +40,7 @@ Fork the repo
 
 If  you have any questions about this app, you can open an issue in the repo or reach me directly at Djcasabona12@gmail.com
 And see more of my work at (https://github.com/DylanCas)
+
+## Walkthrough 
+
+<video src="./assets/e-commerce-api.webm" controls="controls"></video>
